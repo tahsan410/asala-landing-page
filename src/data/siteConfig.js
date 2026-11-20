@@ -53,14 +53,14 @@ const siteConfig = {
   whatsapp: {
     // Country code + number, digits only, no + sign or spaces.
     // Bangladesh example: 8801XXXXXXXXX
-    number: '+8801572915209',
+    number: '+8801946651273',
     // Message that is already typed when the customer opens the chat.
     message: 'Hello ASALA! I would like to know more about your products.',
   },
 
   // ---- Optional contact details (leave "" to hide a line) -------------------
   contact: {
-    phone: '01572915209', // e.g. '+8801XXXXXXXXX'
+    phone: '+8801946651273', // e.g. '+8801XXXXXXXXX'
     email: 'asala.bd.official@gmail.com', // e.g. 'hello@asala.com.bd'
     address: 'BPATC,SAVAR,DHAKA', // e.g. 'Dhaka, Bangladesh'
   },
