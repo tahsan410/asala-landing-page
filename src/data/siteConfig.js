@@ -53,7 +53,7 @@ const siteConfig = {
   whatsapp: {
     // Country code + number, digits only, no + sign or spaces.
     // Bangladesh example: 8801XXXXXXXXX
-    number: '01572915209',
+    number: '+8801572915209',
     // Message that is already typed when the customer opens the chat.
     message: 'Hello ASALA! I would like to know more about your products.',
   },
